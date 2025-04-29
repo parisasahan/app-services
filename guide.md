@@ -29,7 +29,6 @@ Deploy a simple Python web application using Azure App Service via Azure Portal.
   - **Resource Group Name**: `myResourceGroup`
   - **Region**: `East US` (or a region close to you)
 - Click **Review + Create** > **Create**.
-- ![search](images/resource.jpg)
 ![create resoucre group](images/createre.jpg)
 
 
