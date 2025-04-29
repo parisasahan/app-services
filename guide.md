@@ -50,6 +50,10 @@ Deploy a simple Python web application using Azure App Service via Azure Portal.
   - **App Service Plan**: Select `myAppServicePlan`
 - Click **Review + Create** > **Create**.
 - ![search](images/png3.jpg)
+- ![search](images/png4.jpg)
 
 ---
+### step 4 : go to deployment
+
+![search](images/png5.jpg)
 
