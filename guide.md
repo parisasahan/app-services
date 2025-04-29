@@ -29,9 +29,10 @@ Deploy a simple Python web application using Azure App Service via Azure Portal.
   - **Resource Group Name**: `myResourceGroup`
   - **Region**: `East US` (or a region close to you)
 - Click **Review + Create** > **Create**.
+- ![search](images/resource.jpg)
+![create resoucre group](images/createre.jpg)
 
 ---
-
 ### Step 3: Create an App Service Plan
 - In the search bar, type **App Service Plans**.
 - Click **+ Create**.
@@ -44,9 +45,10 @@ Deploy a simple Python web application using Azure App Service via Azure Portal.
   - **Pricing Tier**: Select **F1 (Free)** for testing
 - Click **Review + Create** > **Create**.
 
+
 ---
 
-### Step 4: Create a Web App
+### Step 3: Create a Web App
 - In the search bar, type **App Services**.
 - Click **+ Create** > **Web App**.
 - Enter:
