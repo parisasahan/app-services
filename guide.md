@@ -54,6 +54,19 @@ Deploy a simple Python web application using Azure App Service via Azure Portal.
 
 ---
 ### step 4 : go to deployment
-
+- In the deployment you will be seeing the first option of continuous deployment which is disabled you have click on the enable
+- choose the github account
+- choose organization
+- choose repository
+- choose branch 
+- 
 ![search](images/png5.jpg)
+
+
+
+### step 5: review and create 
+- the remaining fields can be kept as they are you need not change any configuration in it
+- review all the fields in the app services make sure all fields are as per you requirment
+- after reviewing you can click on the create button
+- ![search](images/png6.jpg)
 
