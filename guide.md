@@ -69,14 +69,17 @@ Deploy a simple Python web application using Azure App Service via Azure Portal.
 - after reviewing you can click on the create button
 - then your depployment will be starting
 - after it is deployed you should click on the resoures
-- 
-- ![search](images/png6.jpg)
+ 
+ ![search](images/png6.jpg)
 
 ---
 ### step 6: Go to your app service
 - first in the search bar type app services
 - then find you app service name which you have given to it
-- after click on click on default domain where you will see you app
-- ![search](images/png7.jpg)
-- ![search](images/png8.jpg)
+- after click on click on default domain where you will able to  see your web app
+ ![search](images/png7.jpg)
+ ![search](images/png8.jpg)
+- you will redirected to your web which will apper like this
+ ![search](images/png9.jpg)
+
 
